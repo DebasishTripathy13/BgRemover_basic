@@ -5,7 +5,7 @@ This script is designed to remove the background from a collection of images in 
 ## Requirements
 - Python 3
 - [Pillow (PIL Fork)](https://pillow.readthedocs.io/en/stable/)(Pillow)
-- [rembg](https://github.com/davidmjones/rembg) (Background removal library)
+- [rembg](https://github.com/danielgatis/rembg) (Background removal library)
 ```
 pip install -r requirements.txt
 ```
