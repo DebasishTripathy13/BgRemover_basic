@@ -19,9 +19,10 @@ pip install -r requirements.txt
 git clone https://github.com/DebasishTripathy13/BgRemover_basic.git
 ```
 2. Open a terminal or command prompt and navigate to the script's directory.
+
 ```
 pip install -r requirements.txt
-``
+```
 3. Run the script by entering the following command:
 4. Follow the prompts to enter the paths of the input and output folders.
 5. The script will process each image in the input folder, remove the background, and save the results in the output folder.
